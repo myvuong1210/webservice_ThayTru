@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quản Lý Bán Hàng</string>
+    <string name="action_settings">Settings</string>
+    <string name="mo">mở</string>
+    <string name="dong">đóng</string>
+    <string name="themKH">Thêm Khách Hàng</string>
+    <string name="themNV">Thêm Nhân Viên</string>
+    <string name="themPNH">Thêm Phiếu Nhập Hàng</string>
+    <string name="themCTPNH">Thêm Chi Tiết Phiếu Nhập Hàng</string>
+    <string name="themCTPDH">Thêm Chi Tiết Phiếu Nhập Hàng</string>
+    <string name="themHH">Thêm Hàng Hóa</string>
+
+    <string name="suaKH">Sửa Khách Hàng</string>
+    <string name="suaNV">Sửa Nhân Viên</string>
+    <string name="suaPNH">Sửa Phiếu Nhập Hàng</string>
+    <string name="suaCTPNH">Sửa Chi Tiết Phiếu Nhập Hàng</string>
+    <string name="suaCTPDH">Sửa Chi Tiết Phiếu Nhập Hàng</string>
+    <string name="suaHH">Sửa Hàng Hóa</string>
+
+</resources>

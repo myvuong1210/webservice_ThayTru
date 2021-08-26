@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <Toolbar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toolbar_Home"
+        android:layout_width="match_parent"
+        android:background="@drawable/my_gradient1"
+        android:layout_height="45dp">
+
+    </Toolbar>

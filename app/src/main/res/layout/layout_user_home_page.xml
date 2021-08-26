@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <androidx.drawerlayout.widget.DrawerLayout
+       android:id="@+id/drawerLayoutHomePage"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <LinearLayout
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+
+           <!--Toolbar start-->
+           <androidx.appcompat.widget.Toolbar
+               android:id="@+id/toolbarHomePage"
+               android:background="#2196F3"
+               android:layout_width="match_parent"
+               app:title="Trang chủ"
+               android:layout_height="?attr/actionBarSize">
+           </androidx.appcompat.widget.Toolbar>
+           <!--Toolbar end-->
+
+           <!--View Flipper start-->
+           <ViewFlipper
+               android:id="@+id/viewFlipper"
+               android:layout_width="match_parent"
+               android:layout_height="200dp">
+           </ViewFlipper>
+           <!--View Flipper end-->
+
+           <!--Layout Product List start-->
+           <LinearLayout
+               android:orientation="vertical"
+               android:background="@color/white"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent">
+               <TextView
+                   android:textColor="#03A9F4"
+                   android:layout_margin="5dp"
+                   android:textStyle="bold"
+                   android:textSize="20sp"
+                   android:text="Sản phẩm nổi bật"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"/>
+               <androidx.recyclerview.widget.RecyclerView
+                   android:id="@+id/recyclerViewProctHomePage"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent">
+               </androidx.recyclerview.widget.RecyclerView>
+
+           </LinearLayout>
+           <!--Layout Product List end-->
+           <com.ismaeldivita.chipnavigation.ChipNavigationBar
+               android:id="@+id/chipNavigation"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_alignParentBottom="true"
+               android:layout_gravity="bottom"
+               app:cnb_menuResource="@menu/nav_item" />
+
+           <FrameLayout
+               android:id="@+id/container"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:layout_above="@+id/chipNavigation" />
+       </LinearLayout>
+
+
+       <!--Layout Navigation View start-->
+       <com.google.android.material.navigation.NavigationView
+           android:id="@+id/navigationView"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_gravity="start"
+           app:menu="@menu/navigation_menu"
+           app:headerLayout="@layout/layout_user_header_navigation"
+           android:background="@drawable/background_homepage2">
+           <ListView
+               android:id="@+id/listViewHomePage"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+           </ListView>
+       </com.google.android.material.navigation.NavigationView>
+
+       <!--Layout Navigation View end-->
+
+   </androidx.drawerlayout.widget.DrawerLayout>
+    
+</LinearLayout>

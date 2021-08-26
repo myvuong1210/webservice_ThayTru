@@ -1,0 +1,311 @@
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.csproj.AssemblyReference.cache
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.main.resources
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Properties.Resources.resources
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.csproj.GenerateResource.cache
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.exe.licenses
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.csproj.CoreCompileInputs.cache
+C:\C#\QLBH_API\QLBH_API\bin\Debug\QLBH_API.exe.config
+C:\C#\QLBH_API\QLBH_API\bin\Debug\QLBH_API.exe
+C:\C#\QLBH_API\QLBH_API\bin\Debug\QLBH_API.pdb
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Data.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\Newtonsoft.Json.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Data.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\Newtonsoft.Json.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.csproj.CopyComplete
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.exe
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.pdb
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Form.Form_Login.resources
+C:\C#\QLBH_API\QLBH_API\bin\Debug\System.Net.Http.Formatting.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\System.Net.Http.Formatting.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\aa-DJ\QLBH_API.resources.dll
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Form.Form_Login.aa-DJ.resources
+C:\C#\QLBH_API\QLBH_API\obj\Debug\aa-DJ\QLBH_API.resources.dll
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Forms.Form_NhanVien.resources
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Images.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Forms.Form_HangHoa.resources
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\C#\QLBH_API\QLBH_API\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Forms.Form_KhachHang.resources
+C:\C#\QLBH_API\QLBH_API\obj\Debug\QLBH_API.Forms.Form_NhapHang.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.exe.config
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.exe
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.pdb
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_HangHoa.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_KhachHang.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_Login.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_NhanVien.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_NhapHang.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.main.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Properties.Resources.resources
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.csproj.GenerateResource.Cache
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.exe.licenses
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.exe
+C:\Users\KhanhVuong\Downloads\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.pdb
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.exe
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.exe.config
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\QLBH_API.pdb
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_KhachHang.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_Login.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.Form_NhanVien.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Forms.frmTaoTK.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.frm_Main.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.Properties.Resources.resources
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.csproj.GenerateResource.cache
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.exe.licenses
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.csproj.CoreCompileInputs.cache
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.csproj.CopyComplete
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.exe
+C:\Users\KhanhVuong\Desktop\Do an webservice\AppQuanLyBanHang-main (1)\AppQuanLyBanHang-main\obj\Debug\QLBH_API.pdb

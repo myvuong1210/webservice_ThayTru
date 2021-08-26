@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_weight="3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/imageviewGioHangSP"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:adjustViewBounds="true"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_weight="7"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txtViewGioHangTenSP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên sản phẩm"
+            android:textColor="#000000"
+            android:textSize="18sp"/>
+        <TextView
+            android:id="@+id/txtViewGioHangGiaSP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giá sản phẩm"
+            android:textColor="#FF0000"
+            android:textSize="15sp"
+            android:layout_marginTop="3dp" />
+        <TextView
+            android:id="@+id/txtViewAvailableProct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hàng có sẵn"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:layout_marginTop="3dp" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnMinusQuantity"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:focusable="false"
+                android:layout_marginTop="5dp"
+                android:text="-"
+                android:textSize="20sp"
+                android:fontFamily="@font/roboto_light"
+                android:background="@drawable/custom_button_minus_add"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnValueQuantity"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:focusable="false"
+                android:layout_marginTop="5dp"
+                android:text="1"
+                android:textSize="18sp"
+                android:fontFamily="@font/roboto_mono_light"
+                android:background="@android:color/transparent"
+                android:shadowColor="@android:color/transparent"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnPlusQuantity"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:focusable="false"
+                android:layout_marginTop="5dp"
+                android:text="+"
+                android:textSize="20sp"
+                android:fontFamily="@font/roboto_light"
+                android:background="@drawable/custom_button_minus_add"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

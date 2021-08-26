@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920098007107",
+    "project_id": "quanlyhanghoa-442b6",
+    "storage_bucket": "quanlyhanghoa-442b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920098007107:android:0c8d9e5cf81dfe55d50cf6",
+        "android_client_info": {
+          "package_name": "com.example.adminquanlytruyenhinh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920098007107-jr6kr3hgcm5u4brffo2odl1uiohk0op6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkJzeRJzJmNn3qXD80f8j5Mq41HTcwv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920098007107-jr6kr3hgcm5u4brffo2odl1uiohk0op6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.adminqlbh">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AdminQLBH"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".UserSite.activity.ChiTietDonHangActivity"></activity>
+        <activity android:name=".UserSite.activity.CheckOrderActivity" />
+        <activity android:name=".UserSite.activity.GioHangActivity" />
+        <activity android:name=".UserSite.activity.UserHomePageActivity" />
+        <activity android:name=".UserSite.activity.ChiTietSanPhamActivity" />
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".QuanLyKhachHang.InsertKhachHangActivity"
+            android:parentActivityName=".QuanLyKhachHang.KhachHangActivity" />
+        <activity
+            android:name=".QuanLyKhachHang.UpdateKhachHangActivity"
+            android:parentActivityName=".QuanLyKhachHang.KhachHangActivity" />
+        <activity
+            android:name=".QuanLyNhanVien.UpdateNhanVienActivity"
+            android:parentActivityName=".QuanLyNhanVien.NhanVienActivity" />
+        <activity
+            android:name=".QuanLyNhanVien.InsertNhanVienActivity"
+            android:parentActivityName=".QuanLyNhanVien.NhanVienActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuNhapHang.CT_PhieuNhapHangActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuNhapHang.InsertCT_PhieuNhapHangActivity"
+            android:parentActivityName=".QuanLyCT_PhieuNhapHang.CT_PhieuNhapHangActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuNhapHang.UpdateCT_PhieuNhapHangActivity"
+            android:parentActivityName=".QuanLyCT_PhieuNhapHang.CT_PhieuNhapHangActivity" />
+        <activity
+            android:name=".QuanLyPhieuDatHang.PhieuDatHangActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyKhachHang.KhachHangActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyNhanVien.NhanVienActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ThongKeCTActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyHangHoa.HangHoaActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyHangHoa.InsertHangHoaActivity"
+            android:parentActivityName=".QuanLyHangHoa.HangHoaActivity" />
+        <activity android:name=".QuanLyHangHoa.UpdateHangHoaActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuDatHang.CT_PhieuDatHangActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuDatHang.UpdateCT_PhieuDatHangActivity"
+            android:parentActivityName=".QuanLyPhieuDatHang.PhieuDatHangActivity" />
+        <activity
+            android:name=".QuanLyCT_PhieuDatHang.InsertCT_PhieuDatHangActivity"
+            android:parentActivityName=".QuanLyCT_PhieuDatHang.CT_PhieuDatHangActivity" />
+        <activity
+            android:name=".QuanLyPhieuNhapHang.InsertPhieuNhapHangActivity"
+            android:parentActivityName=".QuanLyPhieuNhapHang.PhieuNhapHangActivity" />
+        <activity
+            android:name=".QuanLyPhieuNhapHang.UpdatePhieuNhapHangActivity"
+            android:parentActivityName=".QuanLyPhieuNhapHang.PhieuNhapHangActivity" />
+        <activity android:name=".QuanLyPhieuDatHang.InsertPhieuDatHangActivity"
+            android:parentActivityName=".QuanLyPhieuDatHang.PhieuDatHangActivity"></activity>
+        <activity
+            android:name=".QuanLyPhieuNhapHang.PhieuNhapHangActivity"
+            android:parentActivityName=".MainActivity" />
+
+        <activity android:name=".QuanLyNhanVien.Update1NhanVienActivity"
+            android:parentActivityName=".MainActivity"></activity>
+
+        <activity android:name=".QuanLyNhanVien.Xem1NhanVienActivity"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".QuanLyKhachHang.TimKiem1KhachHang"
+            android:parentActivityName=".MainActivity"></activity>
+
+        <activity android:name=".QuanLyNhanVien.TimKiem1NhanVien"
+            android:parentActivityName=".MainActivity"></activity>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

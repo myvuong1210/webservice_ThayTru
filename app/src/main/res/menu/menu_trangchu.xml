@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/btnQLHH" android:title="Quản lý Hàng Hóa"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_report_dish"></item>
+    <item android:id="@+id/btnQLNV" android:title="Quản Lý Nhân viên"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_user_group"/>
+    <item android:id="@+id/btnQLKH" android:title="Quản Lý Khách Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_online_account"/>
+    android:icon="@drawable/hd_order_printer"/>
+    <item android:id="@+id/btn_QL_PhieuDatHang" android:title="Quản Lý Phiếu Đặt Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_menu"/>
+    <item android:id="@+id/btn_QL_PhieuNhapHang" android:title="Quản Lý Phiếu Nhập Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_order_printer"/>
+    <item android:id="@+id/btnTK" android:title="Quản Lý Thống Kê"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_report_online"/>
+    <item android:id="@+id/btnQLCTPDH" android:title="Quản Lý Chi Tiết Phiếu Đặt Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_promotion"/>
+    <item android:id="@+id/btnQLCTPNH" android:title="Quản Lý Chi Tiết Phiếu Nhập Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_report_sales"/>
+    </group>
+
+</menu>

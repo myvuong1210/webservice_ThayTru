@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+     <item android:id="@+id/btnQLHH" android:title="Quản lý Hàng Hóa"
+        android:orderInCategory="100" app:showAsAction="never"
+         android:icon="@drawable/hd_report_dish"></item>
+    <item android:id="@+id/btnQLKH" android:title="Quản Lý Khách Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_online_account"/>
+
+    <item android:id="@+id/btn_QL_PhieuDatHang" android:title="Quản Lý Phiếu Đặt Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_menu"/>
+    <item android:id="@+id/btn_QL_PhieuNhapHang" android:title="Quản Lý Phiếu Nhập Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_order_printer"/>
+    <item android:id="@+id/btnTK" android:title="Quản Lý Thống Kê"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_report_online"/>
+    <item android:id="@+id/btnQLCTPDH" android:title="Quản Lý Chi Tiết Phiếu Đặt Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_promotion"/>
+    <item android:id="@+id/btnThemPDH" android:title="Thêm Phiếu Đặt Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_promotion"/>
+
+    <item android:id="@+id/btnQLCTPNH" android:title="Quản Lý Chi Tiết Phiếu Nhập Hàng"
+        android:orderInCategory="100" app:showAsAction="never"
+        android:icon="@drawable/hd_report_sales"/>
+
+    <item android:id="@+id/btnSuaNV" android:title="Xem thông tin nhân viên"
+        android:orderInCategory="100" app:showAsAction="always"
+        android:icon="@drawable/hd_user"/>
+
+    <item android:id="@+id/TimKiemKH" android:title="Tìm kiếm Khách Hàng"
+        android:orderInCategory="100" app:showAsAction="always"
+        android:icon="@drawable/hd_user_group"/>
+
+
+</menu>

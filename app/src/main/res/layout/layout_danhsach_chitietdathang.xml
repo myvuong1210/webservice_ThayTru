@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/my_gradient2">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/appbar"/>
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="#2196F3"
+        app:title="Quản lý hàng hóa"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DANH SÁCH CHI TIẾT PHIẾU ĐẶT HÀNG"
+            android:textSize="35dp"
+            android:paddingTop="30dp"
+            android:textAlignment="center"
+            android:paddingBottom="30dp"
+            android:textStyle="bold"
+            android:id="@+id/txtBg"
+            android:textColor="?attr/colorError">
+
+        </TextView>
+        <com.baoyz.swipemenulistview.SwipeMenuListView
+            android:id="@+id/lvListCTPDH"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/txtBg">
+
+        </com.baoyz.swipemenulistview.SwipeMenuListView>
+
+    </RelativeLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addCTPDH"
+        android:src="@drawable/ic_add"
+        app:fabSize="normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchor="@id/lvListCTPDH"
+        app:layout_anchorGravity="bottom|right|end"
+        android:layout_margin="16dp"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_homepage">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarCheckOrder"
+        android:background="#2196F3"
+        app:title="Kiểm tra đơn hàng"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/tvCheckOrderTenKH"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Tên khách hàng"
+        android:textColor="#FFFFFF"
+        android:textSize="23sp"
+        android:gravity="end"
+        android:textStyle="italic"
+        android:layout_marginTop="10dp"/>
+
+    <com.baoyz.swipemenulistview.SwipeMenuListView
+        android:id="@+id/lvCheckOrder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>

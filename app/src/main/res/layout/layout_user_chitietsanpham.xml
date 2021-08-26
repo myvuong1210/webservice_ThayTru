@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarCTSP"
+        android:background="#2196F3"
+        app:title="Chi tiết sản phẩm"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutCTSP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/toolbarCTSP">
+        <ImageView
+            android:id="@+id/imageviewChitietsanpham"
+            android:src="@drawable/no_image_icon"
+            android:layout_margin="10dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+
+            <TextView
+                android:id="@+id/textviewTenCTSP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_light"
+                android:text="Tên sản phẩm"
+                android:textColor="#050505"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textviewGiaCTSP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_light"
+                android:text="Giá sản phẩm"
+                android:textColor="#FF0000"
+                android:textSize="18sp"
+                android:layout_marginTop="3dp"/>
+            <TextView
+                android:id="@+id/textviewSLTonCTSP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_light"
+                android:text="Hàng có sẵn"
+                android:textColor="#050505"
+                android:textSize="16sp"
+                android:layout_marginTop="3dp"/>
+            <TextView
+                android:id="@+id/textviewThongBaoHetHang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_light"
+                android:textStyle="italic"
+                android:text="Hết hàng !"
+                android:textColor="#FF0000"
+                android:textSize="18sp"
+                android:layout_marginTop="5dp"
+                android:visibility="gone"/>
+            <Spinner
+                android:id="@+id/spinnerSoLuongSP"
+                android:background="@drawable/custom_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_marginTop="5dp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_below="@+id/LinearLayoutCTSP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mô tả chi tiết sản phẩm"
+            android:fontFamily="@font/roboto_light"
+            android:textColor="#000000"
+            android:textSize="20sp"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textviewMotaCTSP"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:fontFamily="@font/roboto_light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </ScrollView>
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buttonThemGioHang"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="THÊM VÀO GIỎ HÀNG"
+        android:layout_alignParentBottom="true"
+        android:background="#2196F3"
+        android:textColor="#FFFFFF" />
+</RelativeLayout>

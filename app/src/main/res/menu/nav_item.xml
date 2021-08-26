@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/trangchu"
+        android:icon="@drawable/ic_home"
+        android:title="Trang chủ"
+        app:cnb_backgroundColor="@color/purple_200"
+        app:cnb_iconColor="#ffffff"
+        app:cnb_textColor="#ffffff" />
+
+    <item
+        android:id="@+id/donhang"
+        android:icon="@drawable/ic_contact"
+        android:title="Đơn hàng"
+        app:cnb_backgroundColor="@color/purple_200"
+        app:cnb_iconColor="#ffffff"
+        app:cnb_textColor="#ffffff" />
+
+    <item
+        android:id="@+id/taikhoan"
+        android:icon="@drawable/hd_online_account"
+        android:title="Tài khoản"
+        app:cnb_backgroundColor="@color/purple_200"
+        app:cnb_iconColor="#ffffff"
+        app:cnb_textColor="#ffffff" />
+
+    <item
+        android:id="@+id/hanghoa"
+        android:icon="@drawable/hd_order_printer"
+        android:title="Hàng hóa"
+        app:cnb_backgroundColor="@color/purple_200"
+        app:cnb_iconColor="#ffffff"
+        app:cnb_textColor="#ffffff" />
+
+    <item
+        android:id="@+id/nhanvien"
+        android:icon="@drawable/ic_info"
+        android:title="Nhân viên"
+        app:cnb_backgroundColor="@color/purple_200"
+        app:cnb_iconColor="#ffffff"
+        app:cnb_textColor="#ffffff" />
+</menu>
